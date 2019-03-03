@@ -1,9 +1,1 @@
-City_Id,City_name,State_Id,City_coordinates
-1,Aurangabad,1,"19.8762° N, 75.3433° E"
-2,Pune,1,"18.5204° N, 73.8567° E"
-3,Mumbai,1,"19.0760° N, 72.8777° E"
-4,Raigad,1,"18.5158° N, 73.1822° E"
-5,Sindhudurg,1,"16.3492° N, 73.5594° E"
-6,Agra,2,"27.1767° N, 78.0081° E"
-7,New Delhi,3,"28.6139° N, 77.2090° E "
-8,Nagpur,1,"21.1458° N, 79.0882° E"
+City_Id,City_name,State_Id
